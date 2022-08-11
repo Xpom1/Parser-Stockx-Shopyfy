@@ -1,0 +1,5 @@
+pip install selenium==3.141.0
+pip install selenium_stealth
+pip install ShopifyAPI
+pip install requests
+pip install chromedriver-autoinstaller
