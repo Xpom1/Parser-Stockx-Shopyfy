@@ -1,0 +1,88 @@
+Start 6882283913321 on 192.166.81.198:8000
+
+DevTools listening on ws://127.0.0.1:53740/devtools/browser/ee2b0ea6-efe5-4d26-aab1-63c0523c6b80
+Air Jordan 1 Retro High "NYC to Paris" = Jordan 1 Retro High OG Defiant SB NYC to Paris
+[+] 3.5US - 3UK - 35.5EU = 3.5US -> Please fix Available!!!
+[+] 4US - 3.5UK - 36EU = 4US -> 1090
+[+] 4.5US - 4UK - 36.5EU = 4.5US -> 1270
+[+] 5US - 4.5UK - 37.5EU = 5US -> 1150
+[+] 5.5US - 5UK - 38EU = 5.5US -> 950
+[+] 6US - 5.5UK - 38.5EU = 6US -> 710
+[+] 6.5US - 6UK - 39EU = 6.5US -> 1080
+[+] 7US - 6UK - 40EU = 7US -> 840
+[+] 7.5US - 6.5UK - 40.5EU = 7.5US -> 790
+[+] 8US - 7UK - 41EU = 8US -> 570
+[+] 8.5US - 7.5UK - 42EU = 8.5US -> 590
+[+] 9US - 8UK - 42.5EU = 9US -> 610
+[+] 9.5US - 8.5UK - 43EU = 9.5US -> 540
+[+] 10US - 9UK - 44EU = 10US -> 390
+[+] 10.5US - 9.5UK - 44.5EU = 10.5US -> 490
+[+] 11US - 10UK - 45 EU = 11US -> 440
+[+] 11.5US - 10.5UK - 45.5EU = 11.5US -> 470
+[+] 12US - 11UK - 46EU = 12US -> 510
+[+] 12.5US - 11.5UK - 47EU = 12.5US -> don`t change
+[+] 13US - 12UK - 47.5EU = 13US -> 630
+[+] 13.5US - 12.5UK - 48EU = 13.5US -> don`t change
+[+] 14US - 13UK - 48.5EU = 14US -> 560
+Save...
+[✓] 6882283913321 Done
+
+Sleep 60 seconds...
+
+Start 6853309792361 on 192.166.81.198:8000
+
+DevTools listening on ws://127.0.0.1:53833/devtools/browser/ac31f439-2455-4ced-aea1-dba174c9a84f
+Dunk Low "Laser Orange" (W) = Nike Dunk Low Laser Orange (W)
+[+] 5US(W) - 2.5UK - 35.5EU = 5WUS -> 320
+[+] 5.5US(W) - 3UK - 36EU = 5.5WUS -> 350
+[+] 6US(W) - 3.5UK - 36.5EU = 6WUS -> 380
+[+] 6.5US(W) - 4UK - 37.5EU = 6.5WUS -> 380
+[+] 7US(W) - 4.5UK - 38EU = 7WUS -> 520
+[+] 7.5US(W) - 5UK - 38.5EU = 7.5WUS -> 580
+[+] 8US(W) - 5.5UK - 39EU = 8WUS -> 560
+[+] 8.5US(W) - 6UK - 40EU = 8.5WUS -> 610
+[+] 9US(W) - 6.5UK - 40.5EU = 9WUS -> 580
+[+] 9.5US(W) - 7UK - 41EU = 9.5WUS -> 540
+[+] 10US(W) - 7.5UK - 42EU = 10WUS -> 530
+[+] 10.5US(W) - 8UK - 42.5EU = 10.5WUS -> 510
+[+] 11US(W) - 8.5UK - 43EU = 11WUS -> 500
+[+] 11.5US(W) - 9UK - 44EU = 11.5WUS -> 920
+[+] 12US(W) - 9.5UK - 44.5EU = 12WUS -> 910
+Save...
+[✓] 6853309792361 Done
+
+Sleep 60 seconds...
+
+Start 6835053822057 on 192.166.81.198:8000
+
+DevTools listening on ws://127.0.0.1:53989/devtools/browser/90b3b81f-8a4d-43ca-b869-1cb4810e099e
+
+[!] Stockx don`t respond
+[!] Try again after 5 minutes
+
+Start 6835053822057 on 192.166.81.198:8000
+
+DevTools listening on ws://127.0.0.1:54322/devtools/browser/693ab247-e11c-448a-9a8a-57baf51ea561
+Air Jordan 4 "University Blue" = Jordan 4 Retro University Blue
+[+] 7US - 6UK - 40EU = 7US -> 490
+[+] 7.5US - 6.5UK - 40.5EU = 7.5US -> 660
+[+] 8US - 7UK - 41EU = 8US -> 670
+[+] 8.5US - 7.5UK - 42EU = 8.5US -> 590
+[+] 9US - 8UK - 42.5EU = 9US -> 690
+[+] 9.5US - 8.5UK - 43EU = 9.5US -> 680
+[+] 10US - 9UK - 44EU = 10US -> 600
+[+] 10.5US - 9.5UK - 44.5EU = 10.5US -> 620
+[+] 11US - 10UK - 45 EU = 11US -> 760
+[+] 11.5US - 10.5UK - 45.5EU = 11.5US -> 730
+[+] 12US - 11UK - 46EU = 12US -> 800
+[+] 12.5US - 11.5UK - 47EU = 12.5US -> 790
+[+] 13US - 12UK - 47.5EU = 13US -> 650
+[+] 14US - 13UK - 48.5EU = 14US -> 780
+Save...
+[✓] 6835053822057 Done
+
+Sleep 60 seconds...
+
+526.5118222236633
+
+END
